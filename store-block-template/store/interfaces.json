@@ -1,8 +1,6 @@
 {
-  "countdown": {
-    "component": "Countdown"
-  },
-  "countdown.title": {
-  "component": "Title"
+  "formulario": {
+    "component": "FormsLeads"
   }
+  
 }

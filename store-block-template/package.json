@@ -13,5 +13,9 @@
     "eslint-config-vtex-react": "^6.2.1",
     "prettier": "^1.19.1",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-react": "^1.2.10",
+    "aws-amplify": "^4.2.4"
   }
 }
